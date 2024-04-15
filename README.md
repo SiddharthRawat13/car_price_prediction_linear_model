@@ -2,6 +2,7 @@
 Car Price Prediction Model
 This repository contains a machine learning model designed to predict car prices based on various features such as the year, mileage, engine size, and more. The model utilizes linear regression and is deployed with a user-friendly interface using Gradio.
 
+![uI car predictor](https://github.com/SiddharthRawat13/car_price_prediction_linear_model/assets/145152277/2ba63ab7-8ace-410d-b2a0-88948ae8c4d7)
 ## Overview
 The aim of this project is to help users estimate the price of a car based on its specifications. The model takes into account several features that are commonly considered when determining the price of a car.
 
