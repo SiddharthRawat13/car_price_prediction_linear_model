@@ -4,7 +4,8 @@ This repository contains a machine learning model designed to predict car prices
 
 ![car preduction 1](https://github.com/SiddharthRawat13/car_price_prediction_linear_model/assets/145152277/ad44de93-4d01-445f-83cc-e2ad361ec35b)
 
-![car predictor 2](https://github.com/SiddharthRawat13/car_price_prediction_linear_model/assets/145152277/1a75c9b7-7a7a-451d-ac49-58babcee424c)
+![car preduction2](https://github.com/SiddharthRawat13/car_price_prediction_linear_model/assets/145152277/cf97d19a-c377-428d-97e5-f710e04e638a)
+
 
 
 ## Overview
